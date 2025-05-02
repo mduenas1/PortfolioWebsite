@@ -9,7 +9,7 @@ export default function Contact() {
         </h2>
 
         <p className="text-gray-200 mb-8">
-          Got a question or want to work together? Shoot me an email at{' '}
+          Send me a message at {' '}
           <a
             href="mailto:duenas.mike10@yahoo.com"
             className="text-[#00df9a] hover:underline"
