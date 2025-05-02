@@ -4,7 +4,7 @@ export default function Projects() {
   const projects = [
     {
       name: 'Personal Portfolio',
-      repo: 'https://github.com/yourusername/portfolio',
+      repo: 'https://github.com/mduenas1/PortfolioWebsite',
     },
 
   ];
