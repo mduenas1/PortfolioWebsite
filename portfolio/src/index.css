@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #000300;
+    color: white;
+
+  }
+ 
+
+  nav a {
+    padding: 0 1rem; 
+    display: inline-block; 
+  }
